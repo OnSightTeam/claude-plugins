@@ -1,0 +1,23 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "onsight-team",
+  "version": "1.0.0",
+  "description": "OnSight Team plugins including Architecture Toolkit for SOLID principles, Clean Architecture, and design patterns validation",
+  "owner": {
+    "name": "OnSight Team",
+    "email": "team@onsight.com"
+  },
+  "plugins": [
+    {
+      "name": "architecture-toolkit",
+      "description": "Comprehensive architecture validation toolkit for TypeScript, JavaScript, and Python. Validates SOLID principles, Clean Architecture, design patterns, and code quality.",
+      "version": "1.0.0",
+      "author": {
+        "name": "OnSight Team",
+        "email": "team@onsight.com"
+      },
+      "source": "https://github.com/OnSightTeam/architecture-toolkit.git",
+      "category": "development"
+    }
+  ]
+}
