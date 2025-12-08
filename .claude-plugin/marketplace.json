@@ -16,7 +16,7 @@
         "name": "OnSight Team",
         "email": "team@onsight.com"
       },
-      "source": "https://github.com/OnSightTeam/architecture-toolkit.git",
+      "source": "./plugins/architecture-toolkit",
       "category": "development"
     }
   ]
