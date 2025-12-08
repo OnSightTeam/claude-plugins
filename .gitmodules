@@ -1,0 +1,3 @@
+[submodule "plugins/architecture-toolkit"]
+	path = plugins/architecture-toolkit
+	url = https://github.com/OnSightTeam/architecture-toolkit.git
