@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "plugins": {
+    "architecture-toolkit": {
+      "version": "1.0.0",
+      "name": "Architecture Toolkit",
+      "description": "Comprehensive architecture validation toolkit for TypeScript, JavaScript, and Python. Validates SOLID principles, Clean Architecture, design patterns, and code quality.",
+      "entrypoint": "dist/mcp-server.js",
+      "git": {
+        "url": "https://github.com/OnSightTeam/architecture-toolkit.git",
+        "ref": "main"
+      }
+    }
+  }
+}
