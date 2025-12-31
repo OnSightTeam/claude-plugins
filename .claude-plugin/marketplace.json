@@ -11,7 +11,7 @@
     {
       "name": "architecture-toolkit",
       "description": "Comprehensive architecture validation toolkit for TypeScript, JavaScript, and Python. Validates SOLID principles, Clean Architecture, design patterns, and code quality.",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "author": {
         "name": "OnSight Team",
         "email": "team@onsight.com"
