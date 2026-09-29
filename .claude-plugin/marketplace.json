@@ -18,6 +18,40 @@
       },
       "source": "./plugins/architecture-toolkit",
       "category": "development"
+    },
+    {
+      "name": "agent-skills",
+      "description": "Addy Osmani's engineering skills (spec, plan, build, verify, review, ship), pinned to reviewed version 0.6.11.",
+      "version": "0.6.11",
+      "source": {
+        "source": "github",
+        "repo": "addyosmani/agent-skills",
+        "sha": "2686b620fc1fed2e8f60c704839c766b8594c6b6"
+      },
+      "category": "development"
+    },
+    {
+      "name": "diagram-design",
+      "description": "Cathryn Lavery's diagram skill (architecture, sequence, state machine and more as HTML/SVG/PNG), pinned to reviewed version 2.6.46.",
+      "version": "2.6.46",
+      "source": {
+        "source": "github",
+        "repo": "cathrynlavery/diagram-design",
+        "sha": "57148ac6f7cf8f2d0080f23437ab2929bca15f3e"
+      },
+      "category": "development"
+    },
+    {
+      "name": "understand-anything",
+      "description": "Codebase knowledge graphs, pinned to reviewed version 2.9.7. Projects that already have .understand-anything/ keep using it.",
+      "version": "2.9.7",
+      "source": {
+        "source": "git-subdir",
+        "url": "Egonex-AI/Understand-Anything",
+        "path": "understand-anything-plugin",
+        "sha": "b05cc3b20990afca537b4fc0a49b4d7fbdc65bb0"
+      },
+      "category": "development"
     }
   ]
 }
